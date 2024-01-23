@@ -1,5 +1,5 @@
 # Project Name
-Creating a model the price of houses with the available independent variables 
+ Model the price of houses with the available independent variables 
 
 ## Table of Contents
 ## General Information : 
